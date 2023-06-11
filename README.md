@@ -2,7 +2,10 @@
  <h2>Introduction</h2>
 <p align=center>
     <img src="assets/dataflow.jpeg" width="65%" height="65%">
+               DataFlow
 </p>
+
+
 </br>
 Explanation:
 </br>
@@ -20,6 +23,10 @@ Components:
 </pre>
 
 Following is a demonstration of the system:
+
+<p align=center>
+    <img src="assets/outputshow.gif" width="65%" height="65%">
+</p>
 
 ## Installation
 ```console
