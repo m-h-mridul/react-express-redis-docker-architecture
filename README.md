@@ -30,12 +30,12 @@ Following is a demonstration of the system:
 
 ## Installation
 ```console
-$ git clone -b master https://github.com/m-h-mridul/react-express-redis-docker-architecture.git
-$ cd react-express-redis-docker-architecture
-$ docker-compose up
+git clone -b master https://github.com/m-h-mridul/react-express-redis-docker-architecture.git
+cd react-express-redis-docker-architecture
+docker-compose up
 ```
 ## to stop
 ```console
-$ docker-compose down --rmi all -v
+docker-compose down --rmi all -v
 ```
 <h2>Thanks for reading!</h2>
